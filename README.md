@@ -1,4 +1,10 @@
-### Hi there 👋
+### E ai Dev, Beleza?
+### Me chamo Marlon Menezes de Santana 🚀
+## Bem Vindo ao meu perfil do GitHub 👋
+
+# 💼 Atualmente trabalho como Assistente de Logistica, porém busco uma transição para a área do Desenvolvimento Android
+# 📖 Estudo Análise e Desenvolvimento de Sistemas na Faculdade Descomplica Digital
+
 
 <!--
 **MenezesMarlon/MenezesMarlon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
