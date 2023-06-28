@@ -1,8 +1,8 @@
 # E ai Dev, Beleza? Me chamo Marlon Menezes de Santana 🚀
-### Bem Vindo ao meu perfil do GitHub 👋
+## Bem Vindo ao meu perfil do GitHub 👋
 
-#### 💼 Atualmente trabalho como Assistente de Logistica, porém busco uma transição para a área do Desenvolvimento Android
-#### 📖 Estudo Análise e Desenvolvimento de Sistemas na Faculdade Descomplica Digital
+### 💼 Atualmente trabalho como Assistente de Logistica, porém busco uma transição para a área do Desenvolvimento Android
+### 📖 Estudo Análise e Desenvolvimento de Sistemas na Faculdade Descomplica Digital
 
 
 <!--
