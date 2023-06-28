@@ -1,5 +1,4 @@
-# E ai Dev, Beleza?
-# Me chamo Marlon Menezes de Santana 🚀
+# E ai Dev, Beleza? Me chamo Marlon Menezes de Santana 🚀
 ### Bem Vindo ao meu perfil do GitHub 👋
 
 #### 💼 Atualmente trabalho como Assistente de Logistica, porém busco uma transição para a área do Desenvolvimento Android
