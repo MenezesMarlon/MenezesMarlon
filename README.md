@@ -3,9 +3,10 @@ Falando um pouco sobre mim, tenho 24 anos, morador da zona oeste do Rio de Janei
 <br>Bem Vindo ao meu perfil do GitHub 👋
 <br>
 <ul>
-  <li>🔭 Buscando minha primeira oportunidade como Dev Android</li>
-  <li>📖 Formado em Análise e Desenvolvimento de Sistemas pela Faculdade Descomplica Digital</li>
-  <li>🌱 Experiência acadêmica que vai desde lógica de programação até a criação de pequenas aplicações Android (Java/Kotlin)</li>
+  <li>🔭 Buscando minha primeira oportunidade como Desenvolvedor Full-Stack</li>
+  <li>📖 Formado em Análise e Desenvolvimento de Sistemas pelo Centro Universitário União das Américas - UniAmérica</li>
+  <li>⚙️ Cursando pós em Engenharia de Software</li>
+  <li>🌱 Experiência acadêmica que vai desde lógica de programação até a criação de pequenas aplicações integrando front-end e back-end</li>
 </ul>
 <hr>
 
@@ -14,6 +15,8 @@ Linguagens Que Estudo
 <div style="display: inline">
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+          
 </div>
 
 <hr>
