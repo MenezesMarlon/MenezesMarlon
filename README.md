@@ -8,8 +8,6 @@ Estou cursando minha graduação na área de tecnologia e, paralelamente, aprofu
 
 Minha trajetória profissional começou na área de logística, onde desenvolvi experiência com processos, análise de dados, sistemas e resolução de problemas. Hoje, estou direcionando essa experiência para a tecnologia e buscando transformar problemas reais em soluções através do desenvolvimento de software.
 
-<hr>
-
 ## 🎯 Atualmente
 
 * ☕ Estudando **Java**
@@ -19,8 +17,6 @@ Minha trajetória profissional começou na área de logística, onde desenvolvi 
 * 🐙 Praticando **Git e GitHub**
 * 💻 Desenvolvendo projetos próprios para aplicar meus conhecimentos
 * 🔎 Buscando minha primeira oportunidade como **estagiário em desenvolvimento backend**
-
-<hr>
 
 ## 🛠️ Tecnologias e ferramentas
 
@@ -40,8 +36,6 @@ Minha trajetória profissional começou na área de logística, onde desenvolvi 
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
 </div>
 
-<hr>
-
 ## 🚀 Projetos
 
 ### LogiCore
@@ -51,8 +45,6 @@ Projeto pessoal ainda em fase de planejamento com o objetivo de aplicar, na prá
 O projeto acompanha minha evolução técnica, começando pelos fundamentos da linguagem e evoluindo posteriormente para conceitos de desenvolvimento de aplicações backend.
 
 **Status:** 🚧 Em desenvolvimento
-
-<hr>
 
 ## 📈 Minha jornada
 
@@ -73,7 +65,6 @@ Lógica de Programação
 
 Meu objetivo é construir uma base sólida antes de avançar para tecnologias mais complexas, utilizando projetos próprios para transformar teoria em prática.
 
-<hr>
 
 ## 💡 Sobre minha experiência
 
@@ -83,18 +74,15 @@ Essa experiência influencia a forma como encaro o desenvolvimento de software: 
 
 Agora estou levando essa perspectiva para a área de tecnologia e construindo minha carreira como desenvolvedor.
 
-<hr>
 
 ## 📫 Contato
 
-<a href="https://www.linkedin.com/in/marlon-menezes-de-santana-6175a6183/" target="_blank">
+<a href="https://www.linkedin.com/in/marlonmenezesdev/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:contato.menezesmarlon@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-<hr>
 
 > "Construindo minha carreira em tecnologia, um projeto de cada vez." 🚀
