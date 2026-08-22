@@ -1,44 +1,100 @@
-### E ai Dev, Beleza?<br>Marlon Menezes aqui!!! 🚀
-Falando um pouco sobre mim, tenho 24 anos, morador da zona oeste do Rio de Janeiro, apaixonado por motos, carros antigos e video games<br>(gamer casual que perde mais do que ganha...)
-<br>Bem Vindo ao meu perfil do GitHub 👋
-<br>
-<ul>
-  <li>🔭 Buscando minha primeira oportunidade como Desenvolvedor Full-Stack</li>
-  <li>📖 Formado em Análise e Desenvolvimento de Sistemas pelo Centro Universitário União das Américas - UniAmérica</li>
-  <li>⚙️ Cursando pós em Engenharia de Software</li>
-  <li>🌱 Experiência acadêmica que vai desde lógica de programação até a criação de pequenas aplicações integrando front-end e back-end</li>
-</ul>
+# Olá! Eu sou o Marlon 👋
+
+### Desenvolvedor Backend em formação ☕🚀
+
+Atualmente estou construindo minha carreira na área de tecnologia, com foco em **desenvolvimento backend utilizando Java**.
+
+Estou cursando minha graduação na área de tecnologia e, paralelamente, aprofundando meus conhecimentos em **Java, Programação Orientada a Objetos, lógica de programação e desenvolvimento de software**.
+
+Minha trajetória profissional começou na área de logística, onde desenvolvi experiência com processos, análise de dados, sistemas e resolução de problemas. Hoje, estou direcionando essa experiência para a tecnologia e buscando transformar problemas reais em soluções através do desenvolvimento de software.
+
 <hr>
 
-Linguagens Que Estudo
-<p></p>
-<div style="display: inline">
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-          
+## 🎯 Atualmente
+
+* ☕ Estudando **Java**
+* 🧱 Aprofundando meus conhecimentos em **Programação Orientada a Objetos**
+* 🧠 Fortalecendo minha base em **lógica e fundamentos de programação**
+* 🎓 Cursando graduação na área de tecnologia
+* 🐙 Praticando **Git e GitHub**
+* 💻 Desenvolvendo projetos próprios para aplicar meus conhecimentos
+* 🔎 Buscando minha primeira oportunidade como **estagiário em desenvolvimento backend**
+
+<hr>
+
+## 🛠️ Tecnologias e ferramentas
+
+### 💻 Desenvolvimento
+
+<div>
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
+</div>
+
+### 📚 Estudando / próximos passos
+
+<div>
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
 </div>
 
 <hr>
 
-Algumas das Tecnologias Utilizadas
+## 🚀 Projetos
 
-<div style="display: inline">        
-<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" />
-<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/>
-<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />       
-<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-          
-          
-</div>
+### LogiCore
+
+Projeto pessoal ainda em fase de planejamento com o objetivo de aplicar, na prática, os conhecimentos adquiridos durante meus estudos de Java e desenvolvimento backend.
+
+O projeto acompanha minha evolução técnica, começando pelos fundamentos da linguagem e evoluindo posteriormente para conceitos de desenvolvimento de aplicações backend.
+
+**Status:** 🚧 Em desenvolvimento
+
 <hr>
 
-Contatos
+## 📈 Minha jornada
 
-<a href="https://www.linkedin.com/in/marlon-menezes-de-santana-6175a6183/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://www.instagram.com/omarlonmenezes/" target="_blank">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
-<a href="mailto:contato.menezesmarlon@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-          
-          
-          
+Lógica de Programação
+        ↓
+      Java
+        ↓
+      POO
+        ↓
+   Collections
+        ↓
+       SQL
+        ↓
+  Spring Boot
+        ↓
+ Desenvolvimento
+    Backend
+
+Meu objetivo é construir uma base sólida antes de avançar para tecnologias mais complexas, utilizando projetos próprios para transformar teoria em prática.
+
+<hr>
+
+## 💡 Sobre minha experiência
+
+Minha experiência profissional em logística me proporcionou contato direto com **processos, análise, indicadores, sistemas e problemas operacionais**.
+
+Essa experiência influencia a forma como encaro o desenvolvimento de software: antes de pensar na implementação, procuro entender o problema que precisa ser resolvido.
+
+Agora estou levando essa perspectiva para a área de tecnologia e construindo minha carreira como desenvolvedor.
+
+<hr>
+
+## 📫 Contato
+
+<a href="https://www.linkedin.com/in/marlon-menezes-de-santana-6175a6183/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:contato.menezesmarlon@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<hr>
+
+> "Construindo minha carreira em tecnologia, um projeto de cada vez." 🚀
